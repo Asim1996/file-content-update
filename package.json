@@ -1,0 +1,24 @@
+{
+  "name": "file-content-update",
+  "version": "1.0.0",
+  "description": "Change the contents of multiple files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asim1996/file-content-update.git"
+  },
+  "keywords": [
+    "regex",
+    "text replace",
+    "file",
+    "update"
+  ],
+  "author": "Asim",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
